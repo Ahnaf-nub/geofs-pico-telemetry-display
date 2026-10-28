@@ -1,4 +1,10 @@
-Real-time flight telemetry display for GeoFS flight simulator using a Raspberry Pi Pico with TFT display, rotary encoder, and LED indicator.
+# GeoFS Telemetry Display: Raspberry Pi Pico Avionics Panel
+
+A DIY hardware cockpit panel for the GeoFS flight simulator. It shows real-time
+flight data (airspeed, altitude, vertical speed, heading, G-load, warnings) on a
+1.8" ST7735 TFT display, with a rotary encoder for autopilot adjustments.
+Built on the Raspberry Pi Pico (RP2040).
+
 Demo Link: https://youtu.be/hnZdgzygMNU
 
 Use the Tampermonkey extension to add the geofs-telemetry-sender.js script. Follow the below for guidance:
